@@ -1,4 +1,4 @@
-## Hi there 👋
+# 커밋한거 다 날아가서 처음부터 다시 해볼게요😭
 
 <!--
 **junjuny0227/junjuny0227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
