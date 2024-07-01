@@ -1,5 +1,4 @@
-# 커밋한거 다 날아가서 처음부터 다시 해볼게요😭
-### 일단 c언어 프로젝트부터 끝내고..
+# 열심히 살아가는 중🔥
 
 <!--
 **junjuny0227/junjuny0227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
