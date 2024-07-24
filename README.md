@@ -11,10 +11,10 @@
 <h3>Me 🥰</h3>
 <div>
   <img src="https://img.shields.io/badge/j__.yx0n__-5865F2?style=flat-square&logo=Discord&logoColor=white"/ width="110px">
-  <a href="https://www.instagram.com/j_.yx0n_/" target="_blank">
+  <a href="https://www.instagram.com/j_.yx0n_/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/ width="120px">
   </a>
-  <a href="https://velog.io/@junjuny0227" target="_blank">
+  <a href="https://velog.io/@junjuny0227">
     <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/ width="85px">
   </a>
 </div>
