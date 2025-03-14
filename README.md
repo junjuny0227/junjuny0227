@@ -1,5 +1,7 @@
 # 열심히 사는 중✏️
 
+안녕하세요! 저는 전준연(Jeon Junyeon)입니다.👋
+
 <div>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" style="height:25px"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" style="height:25px"/>
