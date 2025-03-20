@@ -1,6 +1,3 @@
-Hello, I'm JEON JUNYEON!
-I am attending Gwangju Software Meister High School
-
 # 열심히 사는 중✏️
 
 <div>
