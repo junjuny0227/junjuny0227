@@ -1,4 +1,4 @@
-안녕하세요! 전준연(JEON JUNYEON)입니다! 저는 현재 광주소프트웨어마이스터고등학교에 재학 중 입니다!
+Hello! I'm JEON JUNYEON! I'm currently attending Gwangju Software Meister High School!
 
 # 열심히 사는 중✏️
 
