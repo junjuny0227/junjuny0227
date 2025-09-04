@@ -1,6 +1,11 @@
 <h1 align="left">열심히 사는 중🧑🏻‍💻</h1>
 
 <div>
+  <a href="https://github.com/junjuny0227">
+    <img
+      src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"
+    />
+  </a>
   <a href="https://velog.io/@junjuny0227">
     <img
       src="https://img.shields.io/badge/Velog-20C997.svg?style=for-the-badge&logo=Velog&logoColor=white"
