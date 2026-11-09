@@ -1,16 +1,10 @@
-### Junyeon Jeon — @junjuny0227
+### Junyeon Jeon
 
-Front-End Developer at Gwangju Software Meister High School. Leading the front-end team at the-moment, a 40-member school software development team. I care about maintainability, performance, and the details users feel but never consciously notice.
+Product Engineer who turns maintainability and consistency into systems.
+Currently an intern at (주)알에스팀, working on 쿠핀 ON.
 
-**Tech Stack**
+[Resume](https://junjuny0227.github.io) · [Blog](https://velog.io/@junjuny0227/posts) · [Email](mailto:junjuny.dev@gmail.com)
 
-- **Languages**: JavaScript, TypeScript
-- **Frameworks**: React, Next.js
-- **Styling**: Tailwind CSS, styled-components, vanilla-extract
-- **State/Data**: TanStack Query, Zustand
-- **Tools**: Turborepo, Docker, GitHub Actions
+**Stack** — TypeScript · React · Next.js · NestJS · PostgreSQL · Rust · Tauri
 
-**Open Source**
-
-- **TanStack Query** | [fix(eslint-plugin-query): track custom query hook wrappers](https://github.com/TanStack/query/pull/10730)
-- **yarnpkg/berry** | [PnP: Include Node 22.22.3 in fstat workaround](https://github.com/yarnpkg/berry/pull/7141)
+**Open Source** — [TanStack Query #10730](https://github.com/TanStack/query/pull/10730) · [yarnpkg/berry #7141](https://github.com/yarnpkg/berry/pull/7141)
